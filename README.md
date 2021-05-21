@@ -4,7 +4,7 @@ This repository is dedicated to the completion of all my tasks from The Sparks F
 
 Tools/IDE : Python/Jupyter Notebook
 
-Task 1 - Prediction using Supervised ML (Level - Beginner)
+Task 1 - Prediction using Supervised ML (Level - Beginner) ))
 Predict the percentage of an student based on the no. of study hours.
 This is supposed to be done with linear regression as we will be using just 2 variables. Data for this model can be found at : http://bit.ly/w-data.
 What are we supposed to do with the given dataset?
