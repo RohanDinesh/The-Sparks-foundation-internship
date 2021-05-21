@@ -1,6 +1,6 @@
 # The Sparks Company internship (GRIP)
 
-## This repository is dedicated to the completion of all my tasks from The Sparks Foundation Internship. I will be updating the tasks from my domain : Data Science and Business Analytics 
+This repository is dedicated to the completion of all my tasks from The Sparks Company Internship. I will be updating the tasks from my domain : Data Science and Business Analytics 
 
 Tools/IDE : Python/Jupyter Notebook
 
