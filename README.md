@@ -32,13 +32,11 @@ What are we supposed to do with the given dataset?
 As a security/defense analyst, we will try to find out the hot zone of terrorism. Also, what all security issues and insights can be derived by EDA.
 
 
-
-Yet to be done:
+Yet to be done: 
 ### Task 5 -
 ### Task 6 -
 ### Task 7 -
 ### Task 8 -
-
 
 ### Task 6 - Prediction using Decision Tree Algorithm 
 Create the Decision Tree classifier and visualize it graphically.
