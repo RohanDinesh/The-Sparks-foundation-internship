@@ -31,6 +31,8 @@ I will be doing this with the help of seaborn, plotly and folium libraries in py
 What are we supposed to do with the given dataset?
 As a security/defense analyst, we will try to find out the hot zone of terrorism. Also, what all security issues and insights can be derived by EDA.
 
+
+
 Yet to be done:
 ### Task 5 -
 ### Task 6 -
