@@ -44,4 +44,3 @@ I will be doing this with the help of seaborn, plotnine and folium libraries in 
 What are we supposed to do with the given dataset?
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-.
