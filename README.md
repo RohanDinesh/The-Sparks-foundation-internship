@@ -1,6 +1,6 @@
 # The Sparks Company internship (GRIP)
 
-This repository is dedicated to the completion of all my tasks from The Sparks Company Internship. I will be updating the tasks I perform as a Data Science and Business Analytics intern at a singapore based company: The Sparks Limited.
+This repository is dedicated to the completion of all my tasks from *The Sparks Company Internship*. I will be updating the tasks I perform as a Data Science and Business Analytics intern at a singapore based company: The Sparks Limited.
 
 Tools/IDE : Python/Jupyter Notebook
 
